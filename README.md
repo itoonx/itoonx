@@ -1,5 +1,9 @@
 ## Hi I'm itoonx 
 
+<p align="center">
+  <a href="https://app.daily.dev/itoonx"><img src="https://github.com/itoonx/itoonx/blob/main/devcard.svg" width="400" alt="Makkhawan Voraboot"/></a>
+</p>
+
 Researcher, Interested in AI/ML/DL/RL, Bots, Crowdsourcing, Blockchain, etc.
 
 #### Github Stats
